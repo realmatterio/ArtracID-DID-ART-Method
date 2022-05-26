@@ -34,7 +34,7 @@
             "path": "",
             "query": null
           },
-          "driverUrl": "https://artrac.id/did/$1",
+          "driverUrl": "https://did.artrac.id/$1",
           "duration": 5379,
           "identifier": "f045c5c7d50145b65ca2702c38b4e2d46658293c"
         },
