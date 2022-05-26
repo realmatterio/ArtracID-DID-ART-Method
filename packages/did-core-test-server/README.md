@@ -1,3 +1,7 @@
+### ArtracID DID Method
+did : art : <blockchain[1*5]> : <id[40*]>
+
+
 ### Jest Test Server
 
 See [The DID Core Test Suite](https://w3c.github.io/did-test-suite/) for motivation.
