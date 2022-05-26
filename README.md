@@ -83,11 +83,14 @@ A DID that uses this method MUST begin with the following prefix: did:art. Per t
 ArtracID  =  did: art: method-specific-blockchain-id: method-specific-subject-id 
 method-specific-blockchain-id  =  1*5idchar   where idchar = a-z
 method-specific-subject-id     =  40*idhex    where idhex  = 0-9 / a-f
-This generic DID scheme is a URI scheme conformant with [RFC3986](https://www.ietf.org/rfc/rfc3986.txt)
 ```
 
-where
+This generic DID scheme is a URI scheme conformant with [RFC3986](https://www.ietf.org/rfc/rfc3986.txt)
+
+where 
+
 method-specific-blockchain-id refers to [Enecuum](https://enecuum.com/) ENQ blockchain
+
 method-specific-subject-id refers to a string of 40 hexadecimal characters
 
 example :
