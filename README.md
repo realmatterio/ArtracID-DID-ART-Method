@@ -198,7 +198,7 @@ Accept-Encoding: gzip, deflate
         ],
         "service": [
           {
-	    "id": "did:art:enq:f045c5c7d](did_inquiry@artgrouplimited.com)50145b65ca2702c38b4e2d46658293c#service",
+	    "id": "did:art:enq:f045c5c7d50145b65ca2702c38b4e2d46658293c#service",
     	    "type": "LinkedDomains",
     	    "serviceEndpoint": "https://did.artrac.id"
           }
