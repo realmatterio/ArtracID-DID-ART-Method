@@ -7,23 +7,23 @@ Technical Paper for W3C DID Registration
 ## Art Group Limited
 [www.artracx.com](https://www.artracx.com)
 
-**Author**
-	Ming-lam Ng
+**Author** 
+- Ming-lam Ng
 
-**Editor**
-	Daniel Chun
+**Editor** 
+- Daniel Chun
 
-**Advisors**
-	Paul Cheng, Emil Chan
+**Advisors** 
+- Paul Cheng, Emil Chan
 
-**Contact**
-	did_inquiry@artgrouplimited.com
+**Contact** 
+- did_inquiry@artgrouplimited.com
 
-**Date**
-	26 May 2022
+**Date** 
+- 26 May 2022
 
-**Version**
-	Draft copy V0.1
+**Version** 
+- Draft copy V0.1
 
 
 
