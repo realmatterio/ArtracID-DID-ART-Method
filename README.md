@@ -8,10 +8,10 @@ Technical Paper for W3C DID Registration
 [www.artracx.com](https://www.artracx.com)
 
 **Author** 
-- Ming-lam Ng
+- Ming-lam Ng (Realmatter)
 
 **Editor** 
-- Daniel Chun
+- Daniel Chun (Realmatter)
 
 **Advisors** 
 - Paul Cheng, Emil Chan
@@ -29,12 +29,13 @@ Technical Paper for W3C DID Registration
 
 ## About ArtracID
 
-“ArtracID” is part of the ARTRACX project developed by Art Group Limited, a member of the Art ID Standard Consortium. 
+“ArtracID” is part of the ARTRACX project developed by Art Group Limited - an incorporated company established in Hong Kong and a member of the Art ID Standard Consortium. 
 
 ARTRACX develops the ArtracID which aims to provide the method and resolver for identifications of art and collectibles. It will also make use of specific hardware devices to hold the security key and to derive the unique DID.
 
 This document specifies the “ArtracID” [DID Method](https://w3c.github.io/did-spec-registries/#did-methods) [**did:art**].
 
+ArtracID uses Artrac.id as the official service website.
 
 **Highly Secured Key Tag Hardware**
 
