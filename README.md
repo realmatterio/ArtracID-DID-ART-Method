@@ -1,5 +1,4 @@
 ![ArtracX](https://github.com/ArtracID/did-test-suite/blob/47ed80ce85c17a221b85be25a3be5a4a4ffc26b3/ArtracX%20%20Name%20Logo.png)
-![ArtracX](https://artracx.com/wp-content/uploads/2021/06/site_title.png)
 # ArtracID DID Method
 did : art : <blockchain[1*5]> : <id[40*]>
 
