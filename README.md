@@ -143,6 +143,7 @@ Use the multibase format [base16](https://tools.ietf.org/id/draft-multiformats-m
 **Path**
 
 One type of path is supported in this version
+
 /artwork : response = brief artwork information, e.g. brief description
 
 
