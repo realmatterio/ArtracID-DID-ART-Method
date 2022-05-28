@@ -61,8 +61,7 @@ This document was published as an Editor's Draft. Publication as an Editor's Dra
 
 ## ArtracID Block Diagram
 
-
-![Reference only](ArtracID Block Diagram.png)
+![ArtracID Block Diagram.png](https://github.com/ArtracID/did-test-suite/blob/00911d9d4231ac67fb3a6846931795904fc703a6/ArtracID%20Block%20Diagram.png)
 
 
 ## ArtracID DID Method
