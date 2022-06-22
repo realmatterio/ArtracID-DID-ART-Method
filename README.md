@@ -17,7 +17,7 @@ Technical Paper for W3C DID Registration
 - Paul Cheng, Emil Chan
 
 **Contact** 
-- did_inquiry@artgrouplimited.com
+- did_inquiry@artrac.id
 
 **Date** 
 - 26 May 2022
