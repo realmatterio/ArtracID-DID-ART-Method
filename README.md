@@ -1,4 +1,4 @@
-![ArtracX](https://github.com/ArtracID/did-test-suite/blob/47ed80ce85c17a221b85be25a3be5a4a4ffc26b3/ArtracX%20%20Name%20Logo.png)
+![ArtracX](https://github.com/ArtracID/ArtracID-DID-ART-Method/blob/47ed80ce85c17a221b85be25a3be5a4a4ffc26b3/ArtracX%20%20Name%20Logo.png)
 # ArtracID DID Method
 did : art : <blockchain[1*5]> : <id[40*]>
 
@@ -61,7 +61,7 @@ This document was published as an Editor's Draft. Publication as an Editor's Dra
 
 ## ArtracID Block Diagram
 
-![ArtracID Block Diagram.png](https://github.com/ArtracID/did-test-suite/blob/00911d9d4231ac67fb3a6846931795904fc703a6/ArtracID%20Block%20Diagram.png)
+![ArtracID Block Diagram.png](https://github.com/ArtracID/ArtracID-DID-ART-Method/blob/00911d9d4231ac67fb3a6846931795904fc703a6/ArtracID%20Block%20Diagram.png)
 
 
 ## ArtracID DID Method
