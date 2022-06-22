@@ -8,10 +8,10 @@ Technical Paper for W3C DID Registration
 [www.artracx.com](https://www.artracx.com)
 
 **Author** 
-- Ming-lam Ng (Realmatter)
+- Ming-lam Ng (RealMatter)
 
 **Editor** 
-- Daniel Chun (Realmatter)
+- Daniel Chun (RealMatter)
 
 **Advisors** 
 - Paul Cheng, Emil Chan
