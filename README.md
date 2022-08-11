@@ -4,6 +4,10 @@ did : art : <blockchain[1*5]> : <id[40*]>
 
 Technical Paper for W3C DID Registration
 
+## Merged into W3C Github Register
+on 11 Aug 2022
+(https://github.com/w3c/did-test-suite/blob/main/packages/did-core-test-server/suites/did-identifier/default.js)
+
 ## Art Group Limited
 [www.artracx.com](https://www.artracx.com)
 
