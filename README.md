@@ -31,7 +31,7 @@ on 11 Aug 2022
 - 26 May 2022
 
 **Version** 
-- Draft copy V0.1
+- First copy V1.0
 
 
 
