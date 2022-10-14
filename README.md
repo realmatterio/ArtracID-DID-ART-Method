@@ -6,7 +6,7 @@ Technical Paper for W3C DID Registration
 
 ## Official DID:ART Method in W3C Registry
 
-Merged into W3C Github Registry
+Merged into W3C Github DID Test Suite
 
 on 11 Aug 2022 
 (https://github.com/w3c/did-test-suite/blob/main/packages/did-core-test-server/suites/did-identifier/default.js)
