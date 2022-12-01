@@ -1,6 +1,6 @@
 ![ArtracX](https://github.com/ArtracID/ArtracID-DID-ART-Method/blob/47ed80ce85c17a221b85be25a3be5a4a4ffc26b3/ArtracX%20%20Name%20Logo.png)
 # ArtracID DID:ART Method
-did : art : <blockchain[1*5]> : <id[40*]>
+did : art : <blockchain[1 * 5]> : <id[40 * ]>
 
 Technical Paper for W3C DID Registration
 
