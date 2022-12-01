@@ -6,6 +6,12 @@ Technical Paper for W3C DID Registration
 
 ## Official DID:ART Method in W3C Registry
 
+Merged into W3C Github DID Registry
+
+on 1 Dec 2022 
+
+https://github.com/w3c/did-spec-registries/tree/main/methods
+
 Merged into W3C Github DID Test Suite
 
 on 11 Aug 2022 
