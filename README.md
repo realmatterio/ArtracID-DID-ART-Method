@@ -15,6 +15,7 @@ https://github.com/w3c/did-spec-registries/tree/main/methods
 Merged into W3C Github DID Test Suite
 
 on 11 Aug 2022 
+
 (https://github.com/w3c/did-test-suite/blob/main/packages/did-core-test-server/suites/did-identifier/default.js)
 
 
